@@ -1,7 +1,5 @@
 # php-shop
 
-# Project Description: Online Store Web Application
-
 This repository contains a web application for an online store, implemented using HTML, CSS, PHP, and following the Model-View-Controller (MVC) architectural pattern, as well as an Object-Oriented Programming (OOP) approach.
 
 ## Technologies and Details
