@@ -14,18 +14,4 @@ This repository contains a web application for an online store, implemented usin
 
 - **OOP**: We employ an object-oriented approach to create models, controllers, and other components, simplifying the application's structure and extensibility.
 
-## Key Features
-
-- Browse and search for products in the online store.
-- Add products to the shopping cart and proceed with order checkout.
-- Administrator capabilities: add, remove, and edit products.
-
-## Contribution
-
-Contributions to the project are welcome, whether it's bug fixes, feature enhancements, or new functionality. Please create pull requests for discussion and merging your code into the project's main branch.
-
-## License
-
-This project is distributed under the [MIT License](LICENSE), allowing you to freely use and modify the code within the terms of the license.
-
 <img src="screencapture.png">
